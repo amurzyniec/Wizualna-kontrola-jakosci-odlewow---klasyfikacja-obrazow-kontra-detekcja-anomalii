@@ -1,1 +1,1 @@
-# Wizualna-kontrola-jakosci-odlewow---klasyfikacja-obrazow-kontra-detekcja-anomalii
+Zadanie główne: Zbudować klasyfikator obrazów rozróżniający element wadliwy i poprawny, a następnie porównać go z podejściem opartym na detekcji anomalii, uczonym wyłącznie na próbkach poprawnych - i ocenić, które podejście lepiej pasuje do realiów kontroli jakości.
