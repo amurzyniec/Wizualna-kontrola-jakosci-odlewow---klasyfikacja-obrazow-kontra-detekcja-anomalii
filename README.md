@@ -1,0 +1,1 @@
+# Wizualna-kontrola-jakosci-odlewow---klasyfikacja-obrazow-kontra-detekcja-anomalii
